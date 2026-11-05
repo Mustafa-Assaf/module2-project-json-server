@@ -1,8 +1,147 @@
 {
-  "COLLECTION_NAME_HERE": [
+  "companies": [
     {
       "id": "1234",
-      "KEY_HERE": "VALUE_HERE"
+      "name": "Nintendo",
+      "location": "Japan",
+      "foundedYear": "1889"
+    },
+    {
+      "id": "5678",
+      "name": "Sony",
+      "location": "Japan",
+      "foundedYear": "1946"
+    },
+    {
+      "id": "9101",
+      "name": "Microsoft",
+      "location": "USA",
+      "foundedYear": "1975"
+    },
+    {
+      "id": "1121",
+      "name": "Sega",
+      "location": "Japan",
+      "foundedYear": "1960"
+    },
+    {
+      "id": "3141",
+      "name": "Capcom",
+      "location": "Japan",
+      "foundedYear": "1979"
+    },
+    {
+      "id": "5161",
+      "name": "Electronic Arts",
+      "location": "USA",
+      "foundedYear": "1982"
+    }
+  ],
+  "games": [
+    {
+      "id": "ABCD",
+      "title": "The Legend of Zelda: Ocarine of Time Remake",
+      "category": "adventure",
+      "rating": null,
+      "companyId": "1234"
+    },
+    {
+      "id": "EFGH",
+      "title": "Mario Kart 8 Deluxe",
+      "category": "racing",
+      "rating": null,
+      "companyId": "1234"
+    },
+    {
+      "id": "IJKL",
+      "title": "Super Smash Bros. Ultimate",
+      "category": "fighting",
+      "rating": null,
+      "companyId": "1234"
+    },
+    {
+      "id": "MNOP",
+      "title": "Animal Crossing: New Horizons",
+      "category": "adventure",
+      "rating": null,
+      "companyId": "1234"
+    },
+    {
+      "id": "QRST",
+      "title": "Metroid Dread",
+      "category": "action",
+      "rating": null,
+      "companyId": "1234"
+    },
+    {
+      "id": "UVWX",
+      "title": "Gran Turismo 7",
+      "category": "racing",
+      "rating": null,
+      "companyId": "5678"
+    },
+    {
+      "id": "YZ12",
+      "title": "God of War: Ragnarok",
+      "category": "action",
+      "rating": null,
+      "companyId": "5678"
+    },
+    {
+      "id": "3456",
+      "title": "Halo Infinite",
+      "category": "action",
+      "rating": null,
+      "companyId": "9101"
+    },
+    {
+      "id": "7890",
+      "title": "Forza Horizon 5",
+      "category": "racing",
+      "rating": null,
+      "companyId": "9101"
+    },
+    {
+      "id": "1357",
+      "title": "Sonic Frontiers",
+      "category": "adventure",
+      "rating": null,
+      "companyId": "1121"
+    },
+    {
+      "id": "2468",
+      "title": "Street Fighter 6",
+      "category": "fighting",
+      "rating": null,
+      "companyId": "3141"
+    },
+    {
+      "id": "9753",
+      "title": "Resident Evil 4 Remake",
+      "category": "action",
+      "rating": null,
+      "companyId": "3141"
+    },
+    {
+      "id": "8642",
+      "title": "FIFA 23",
+      "category": "sports",
+      "rating": null,
+      "companyId": "5161"
+    },
+    {
+      "id": "7531",
+      "title": "Madden NFL 24",
+      "category": "sports",
+      "rating": null,
+      "companyId": "5161"
+    },
+    {
+      "title": "Metroid Prime 4",
+      "category": "action",
+      "rating": "10",
+      "companyId": "1234",
+      "id": "rKFpR0x"
     }
   ]
 }
